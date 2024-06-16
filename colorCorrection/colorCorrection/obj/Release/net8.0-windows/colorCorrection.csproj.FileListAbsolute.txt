@@ -1,0 +1,16 @@
+C:\Users\goten\source\repos\colorCorrection\colorCorrection\bin\Release\net8.0-windows\colorCorrection.exe
+C:\Users\goten\source\repos\colorCorrection\colorCorrection\bin\Release\net8.0-windows\colorCorrection.deps.json
+C:\Users\goten\source\repos\colorCorrection\colorCorrection\bin\Release\net8.0-windows\colorCorrection.runtimeconfig.json
+C:\Users\goten\source\repos\colorCorrection\colorCorrection\bin\Release\net8.0-windows\colorCorrection.dll
+C:\Users\goten\source\repos\colorCorrection\colorCorrection\bin\Release\net8.0-windows\colorCorrection.pdb
+C:\Users\goten\source\repos\colorCorrection\colorCorrection\obj\Release\net8.0-windows\colorCorrection.Form1.resources
+C:\Users\goten\source\repos\colorCorrection\colorCorrection\obj\Release\net8.0-windows\colorCorrection.csproj.GenerateResource.cache
+C:\Users\goten\source\repos\colorCorrection\colorCorrection\obj\Release\net8.0-windows\colorCorrection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\goten\source\repos\colorCorrection\colorCorrection\obj\Release\net8.0-windows\colorCorrection.AssemblyInfoInputs.cache
+C:\Users\goten\source\repos\colorCorrection\colorCorrection\obj\Release\net8.0-windows\colorCorrection.AssemblyInfo.cs
+C:\Users\goten\source\repos\colorCorrection\colorCorrection\obj\Release\net8.0-windows\colorCorrection.csproj.CoreCompileInputs.cache
+C:\Users\goten\source\repos\colorCorrection\colorCorrection\obj\Release\net8.0-windows\colorCorrection.dll
+C:\Users\goten\source\repos\colorCorrection\colorCorrection\obj\Release\net8.0-windows\refint\colorCorrection.dll
+C:\Users\goten\source\repos\colorCorrection\colorCorrection\obj\Release\net8.0-windows\colorCorrection.pdb
+C:\Users\goten\source\repos\colorCorrection\colorCorrection\obj\Release\net8.0-windows\colorCorrection.genruntimeconfig.cache
+C:\Users\goten\source\repos\colorCorrection\colorCorrection\obj\Release\net8.0-windows\ref\colorCorrection.dll

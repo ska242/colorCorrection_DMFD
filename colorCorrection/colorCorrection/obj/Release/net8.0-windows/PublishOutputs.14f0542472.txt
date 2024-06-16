@@ -1,0 +1,5 @@
+C:\Users\goten\Desktop\_NinjaRipper\colorCorrection.exe
+C:\Users\goten\Desktop\_NinjaRipper\colorCorrection.dll
+C:\Users\goten\Desktop\_NinjaRipper\colorCorrection.deps.json
+C:\Users\goten\Desktop\_NinjaRipper\colorCorrection.runtimeconfig.json
+C:\Users\goten\Desktop\_NinjaRipper\colorCorrection.pdb
